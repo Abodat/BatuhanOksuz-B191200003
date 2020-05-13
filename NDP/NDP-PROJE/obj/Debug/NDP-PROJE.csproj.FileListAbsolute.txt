@@ -1,0 +1,9 @@
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\bin\Debug\NDP-PROJE.exe.config
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\bin\Debug\NDP-PROJE.exe
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\bin\Debug\NDP-PROJE.pdb
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP-PROJE.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP_PROJE.Form1.resources
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP_PROJE.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP-PROJE.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP-PROJE.exe
+C:\Users\Batuhan\Desktop\NDP PROJE\NDP\NDP-PROJE\obj\Debug\NDP-PROJE.pdb
